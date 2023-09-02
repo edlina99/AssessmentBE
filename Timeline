@@ -1,0 +1,5 @@
+No	Date	     Start	   End	                  Task
+1	 28/8/2023	11:00 AM	5:30 PM	  Creates new project, database, migration of the database
+2	 29/8/2023	8:30 AM	  5:30 PM	  Creates API controller, logic, data access and GetWellPlatformActual API
+3	 1/9/2023	  8:30 AM	  5:30 PM	  Create GetWellPlatformDummy API 
+4	 2/9/2023	  12:00 PM	4:00 PM	  Write and test SQL for assessment 2
